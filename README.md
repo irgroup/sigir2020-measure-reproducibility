@@ -1,3 +1,14 @@
+# How to Measure the Reproducibility of System-oriented IR Experiments
+
+**Timo Breuer**, **Nicola Ferro**, **Norbert Fuhr**, **Maria Maistro**, **Tetsuya Sakai**, **Philipp Schaer**, **Ian Soboroff**
+
+This repository contains the accompanying code, dataset and online appendix of our SIGIR20 paper "How to Measure the Reproducibility of System-oriented IR Experiments"
+
+## Abstract
+Replicability and reproducibility of experimental results are primary concerns in all the areas of science and IR is not an exception. Besides the problem of moving the field towards more reproducible experimental practices and protocols, we also face a severe methodological issue: we do not have any means to assess when reproduced is reproduced. Moreover, we lack any reproducibility-oriented dataset, which would allow us to develop such methods.
+
+To address these issues, we compare several measures to objectively quantify to what extent we have replicated or reproduced a system-oriented IR experiment. These measures operate at different levels of granularity, from the fine-grained comparison of ranked lists, to the more general comparison of the obtained effects and significant differences. Moreover, we also develop a reproducibility-oriented dataset, which allows us to validate our measures and which can also be used to develop future measures.
+
 ## Setup 
 1. Install requirements with pip: 
    ```
