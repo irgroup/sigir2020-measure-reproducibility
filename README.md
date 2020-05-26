@@ -2,7 +2,7 @@
 
 This repository contains the accompanying code, dataset and online appendix of:   
 
-> **Timo Breuer**, **Nicola Ferro**, **Norbert Fuhr**, **Maria Maistro**, **Tetsuya Sakai**, **Philipp Schaer**, and **Ian Soboroff**. 2020. How to Measure the Reproducibility of System-oriented IR Experiments. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’20).
+> **Timo Breuer**, **Nicola Ferro**, **Norbert Fuhr**, **Maria Maistro**, **Tetsuya Sakai**, **Philipp Schaer**, and **Ian Soboroff**. 2020. How to Measure the Reproducibility of System-oriented IR Experiments. *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’20)*.
 
 ## Abstract
 Replicability and reproducibility of experimental results are primary concerns in all the areas of science and IR is not an exception. Besides the problem of moving the field towards more reproducible experimental practices and protocols, we also face a severe methodological issue: we do not have any means to assess when reproduced is reproduced. Moreover, we lack any reproducibility-oriented dataset, which would allow us to develop such methods.
