@@ -1,5 +1,9 @@
 # How to Measure the Reproducibility of System-oriented IR Experiments
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3856042.svg)](https://doi.org/10.5281/zenodo.3856042)
+
+
 This repository contains the accompanying code, dataset and online appendix of:   
 
 > **Timo Breuer**, **Nicola Ferro**, **Norbert Fuhr**, **Maria Maistro**, **Tetsuya Sakai**, **Philipp Schaer**, and **Ian Soboroff**. 2020. How to Measure the Reproducibility of System-oriented IR Experiments. *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’20)*.
