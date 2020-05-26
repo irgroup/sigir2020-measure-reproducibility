@@ -9,6 +9,16 @@ Replicability and reproducibility of experimental results are primary concerns i
 
 To address these issues, we compare several measures to objectively quantify to what extent we have replicated or reproduced a system-oriented IR experiment. These measures operate at different levels of granularity, from the fine-grained comparison of ranked lists, to the more general comparison of the obtained effects and significant differences. Moreover, we also develop a reproducibility-oriented dataset, which allows us to validate our measures and which can also be used to develop future measures.
 
+## Project overview
+
+- `appendix/`: online appendix with additional Tables and Figures
+- `config/`: configurations of each run constellation
+- `core/`: core modules of the reimplementation
+- `dataset/`: replicated and reproduced results of `wcrobust04` and `wcrobust0405` with 200 runs in total
+- `evaluation/`: scripts for the evaluation of the experimental setup
+- `replicability/`: scripts for producing replicated results
+- `reproducibility/`: scripts for producing reproduced results
+
 ## Setup 
 1. Install requirements with pip: 
    ```
