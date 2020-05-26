@@ -77,4 +77,4 @@ To address these issues, we compare several measures to objectively quantify to 
 
 For the evaluation script you need Matlab and [Matters](http://matters.dei.unipd.it/).
 
-Alternatively some evlautaion measures are already pre-computed and stored in csv files: `evaluation/matlab/results`.
+Alternatively, some evaluation measures are already pre-computed and stored in csv files: `evaluation/matlab/results`.
