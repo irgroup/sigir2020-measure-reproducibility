@@ -61,3 +61,10 @@ To address these issues, we compare several measures to objectively quantify to 
 | rpl/rpd_C_3 | 42 |
 | rpl/rpd_C_4 | 41 |
 | rpl/rpd_C_5 | 40 |
+
+
+## Evaluation
+
+For the evaluation script you need Matlab and [Matters](http://matters.dei.unipd.it/).
+
+Alternatively some evlautaion measures are already pre-computed and stored in csv files: `evaluation/matlab/results`.
